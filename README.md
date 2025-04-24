@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Adnan Heydari
+# 👋 Hi there! I'm Adnan Heidary
 
 🎓 I'm a student at **Amirkabir University of Technology**, passionate about programming and always eager to learn more.
 
