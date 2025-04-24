@@ -25,7 +25,7 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 ### Languages
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/java.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/C.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/python.png" height="100">
+<img src="https://abrudz.github.io/logos/Python.svg" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/php.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/html5.png" height="100">
