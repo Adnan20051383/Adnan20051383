@@ -82,3 +82,8 @@ Feel free to reach out or collaborate on exciting projects!
 
 *Thanks for stopping by! Keep building, keep growing 🚀*
 
+
+![snake gif](https://github.com/Adnan20051383/Adnan20051383/blob/output/github-snake-dark.svg)
+
+
+
