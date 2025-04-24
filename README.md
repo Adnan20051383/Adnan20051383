@@ -12,7 +12,7 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan20051383&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan20051383&layout=donut)](https://github.com/Adnan20051383/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan20051383&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 💡 Soft Skills
