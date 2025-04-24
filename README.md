@@ -31,8 +31,8 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100" style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/html.svg" height="100" style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/css.svg" height="100" style="margin: 0 10px;">
-  <img src="https://ih1.redbubble.net/image.4685777362.5154/st,small,507x507-pad,600x600,f8f8f8.jpg" height="100" style="margin: 0 20px;">
-  <img src="https://embetronicx.b-cdn.net/wp-content/uploads/2022/05/vhdl.png" height="100" style="margin: 0 10px;">
+  <img src="https://ih1.redbubble.net/image.4685777362.5154/st,small,507x507-pad,600x600,f8f8f8.jpg" height="100" style="margin: 0 10px;">
+  <img src="https://embetronicx.b-cdn.net/wp-content/uploads/2022/05/vhdl.png" height="100" style="margin: 0 20px;">
 </p>
 
 ### Frameworks & Tools
