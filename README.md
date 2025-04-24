@@ -23,7 +23,7 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 ## 💻 Programming Languages & Tools
 
 ### Languages
-<p align="center">
+<p align="left">
   <img src="https://abrudz.github.io/logos/Java.svg" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/c.svg" height="80">
   <img src="https://abrudz.github.io/logos/Python.svg" height="80">
@@ -31,12 +31,12 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/html.svg" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/css.svg" height="80">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/verilog.png" height="80">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/vhdl.png" height="80">
+  <img src="https://ih1.redbubble.net/image.4685777362.5154/st,small,507x507-pad,600x600,f8f8f8.jpg" height="80">
+  <img src="https://embetronicx.b-cdn.net/wp-content/uploads/2022/05/vhdl.png" height="80">
 </p>
 
 ### Frameworks & Tools
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/git.svg" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/ides/android-studio.svg" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/text%20editors/vscode.svg" height="80">
@@ -46,14 +46,14 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 </p>
 
 ### Databases
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mongodb.svg" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/postgresql.svg" height="80">
 </p>
 
 ### IDEs
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/ides/pycharm.svg" height="80">
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/clion.png?raw=true" height="80">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/ides/intellij.svg" height="80">
