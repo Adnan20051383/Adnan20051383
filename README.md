@@ -23,26 +23,33 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 ## 💻 Programming Languages & Tools
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/java.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/C.png" height="100">
+<img src="https://abrudz.github.io/logos/Java.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" height="100">
 <img src="https://abrudz.github.io/logos/Python.svg" height="100">
-<img src="[https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/php.png](https://abrudz.github.io/logos/PHP.svg)" height="100">
+<img src="https://abrudz.github.io/logos/PHP.svg" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/html5.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/css3.png" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/css.svg" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/verilog.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/vhdl.png" height="100">
 
 ### Frameworks & Tools
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio)
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/android-studio.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/django.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/boostrap.svg" height="100">
+<img src="https://sass-lang.com/assets/img/styleguide/color.png" height="100">
 
 ### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mysql.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mongodb.svg" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg" height="100">
 
+### IDEs
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/pycharm.svg" height="100">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/clion.png?raw=true" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/intellij.svg" height="100">
 ---
 
 ## 🚀 Goals
