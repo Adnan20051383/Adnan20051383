@@ -23,15 +23,15 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 ## 💻 Programming Languages & Tools
 
 ### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/java.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/C.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/python.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/php.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Verilog](https://img.shields.io/badge/-Verilog-A0A0A0?style=flat-square)
-![VHDL](https://img.shields.io/badge/-VHDL-8C1515?style=flat-square)
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/html5.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/css3.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/verilog.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/vhdl.png" height="100">
 
 ### Frameworks & Tools
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
