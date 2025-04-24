@@ -11,8 +11,8 @@
 I'm a curious and driven developer who enjoys creating, learning, and collaborating. Whether it's building mobile apps or exploring backend technologies, I love solving problems and bringing ideas to life with code.
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan20051383&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan20051383&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan20051383&layout=donut)](https://github.com/Adnan20051383/github-readme-stats)
 ---
 
 ## 💡 Soft Skills
