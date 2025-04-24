@@ -27,7 +27,7 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Verilog](https://img.shields.io/badge/-Verilog-A0A0A0?style=flat-square)
