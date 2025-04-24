@@ -48,7 +48,7 @@ I'm a curious and driven developer who enjoys creating, learning, and collaborat
 ### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg" height="100" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mongodb.svg" height="100 style="margin: 0 10px;">
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="100 style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/postgresql.svg" height="100" style="margin: 0 10px;">
 </p>
 
