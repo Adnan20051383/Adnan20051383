@@ -76,7 +76,7 @@ Feel free to reach out or collaborate on exciting projects!
 
 🌍 [My GitHub](https://github.com/Adnan20051383)  
 ✉️ [Email Me](mailto:ad13832812@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/adnan-heidary)
+🔗 [LinkedIn](https://linkedin.com/in/adnan-heidary-717013220)
 
 ---
 
